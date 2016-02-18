@@ -1,0 +1,2 @@
+# categorizacion
+proyecto Inteligencia Artificial
